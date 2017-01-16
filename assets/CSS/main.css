@@ -1,0 +1,139 @@
+.row
+{
+	margin-top: 20px;
+}
+.searchfrom
+{
+	width:60%;
+	display: inline-block;
+	    border-radius: 0;
+    border-color: #000;
+
+}
+h1
+{
+	font-size: 50px;
+    font-weight: bold;
+}
+.formclass
+{
+    margin: 25px 0 0 0;
+}
+.maincontainer
+{
+	font-weight: bold;
+}
+.searchbtn
+{
+	border-radius: 0;
+    border-color: #000;
+    background: #fff;
+}
+.mainmenu
+{
+	clear: both;
+	list-style-type: none;
+	padding: 15px 0 15px 15px;
+	margin-left: 0px;
+    
+}
+.mainmenu li
+{
+	border-right: 1px solid black;
+	padding-right: 60px;
+    padding-left: 40px;
+}
+.mainmenu li:last-child
+{
+	border: none;
+}
+.seriesdiv,.visitordiv
+{
+
+	padding: 100px;
+    text-align: center;
+}
+
+.comborder
+{
+	border: 1px solid black ;
+}
+.maincontnr
+{
+	padding-left : 0px;
+	padding-right: 0px;
+}
+.maincontnrs
+{
+	padding-right: 0px;
+}
+
+.leftset
+{
+	padding: 0px;
+	margin-top: 20px;
+}
+.rightset
+{
+	margin-top: 20px;
+	padding-right: 0px;
+}
+.upcomingevent
+{
+	padding: 5px;
+    width: 50%;
+}
+.wrapimage
+{
+	width: 20%;
+	float: left;
+	padding-right: 10px;
+    padding-top: 1px;
+}
+.comment li
+{
+	list-style-type: none;
+	text-decoration: underline;
+	display: inline;
+}
+.comment ul
+{
+	padding-left: 0px;
+}
+
+.comment li:first-child
+{
+	border-right: 1px solid black;
+	padding-right: 5px; 
+}
+.titleclass
+{
+	text-decoration: underline;
+}
+ .mediaclass
+ {
+
+ 	  margin: 25px 0;
+ }
+ .moreclass
+ {
+ 	text-align: center;
+ 	text-decoration: underline;
+ 	padding: 20px;
+ 	margin: 10px;
+ }
+ .footerclass
+ {
+ 	text-align: center;
+ 	padding: 10px;
+ 	margin: 0 100px 20px;
+ 	font-weight: bold
+ }
+ .serviceclass,.watchclass,.ministryclass
+ {
+ 	padding: 56px;
+    text-align: center;
+    margin-bottom: 20px;
+
+ }
+ 
